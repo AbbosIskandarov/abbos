@@ -1,5 +1,5 @@
 # About me
-<p>Hi! 👋 My name is Abbos Iskandarov (AbbosIskandarov).</p>
+<p>Hi! My name is Abbos (AbbosIskandarov).</p>
 
 - Telegram:                           [AbbosIskandarov](https://t.me/Iskandarov1987)
 
